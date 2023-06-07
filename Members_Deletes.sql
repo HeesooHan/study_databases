@@ -1,5 +1,5 @@
 DELETE FROM members_hobby ;
-DELETE FROM membewrs_login ;
+DELETE FROM members_login ;
 DELETE FROM hobby_code ;
 DELETE FROM members ;
 DELETE FROM address_code ;
